@@ -1,5 +1,5 @@
-mod print;
+mod string;
 fn main() {
-    print::run();
-    println!("{}",1);
+    string::run();
+    
 }
