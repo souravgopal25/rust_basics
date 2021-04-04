@@ -1,5 +1,5 @@
-mod tuple;
+mod arrays;
 fn main() {
-    tuple::run();
+    arrays::run();
     
 }
