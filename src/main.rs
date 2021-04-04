@@ -1,5 +1,5 @@
-mod string;
+mod tuple;
 fn main() {
-    string::run();
+    tuple::run();
     
 }
